@@ -26,6 +26,7 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 ## 🛠️ Tech Stack & Tools
 
 **Programming:**
+&nline;
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++" />
@@ -33,6 +34,7 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" />
 
 **AI & ML:**
+&nline;
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30" alt="TensorFlow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" height="30" alt="OpenCV" />
@@ -41,6 +43,7 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30" alt="Pandas" />
 
 **Web Development:**
+&nline;
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3" />
@@ -50,19 +53,21 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" alt="Express" />
 
 **Database:**
+&nline;
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30" alt="Firebase" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL" />
 
 **Tools & Platforms:**
+&nline;
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30" alt="AWS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30" alt="Google Cloud" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="30" height="30" alt="Power BI" />
 ## 🎯 Goals & Interests
 
 - 🌱 Enhancing AI models for **mental health and healthcare applications**.
