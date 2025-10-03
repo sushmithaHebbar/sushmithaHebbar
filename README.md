@@ -25,7 +25,10 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 
 ## 🛠️ Tech Stack & Tools
 
-- **Programming:** C, C++, Python, JavaScript
+- **Programming:**C	$\text{\faC}$
+C++	$\text{\faCplusplus}$
+Python	$\text{\faPython}$
+JavaScript	$\text{\faJs}$
 - **AI & ML:** TensorFlow, OpenCV, Scikit-learn, NLP, Kaggle
 - **Web Development:** HTML, CSS, Bootstrap, React.js, Node.js, Express.js
 - **Database:** MongoDB, Firebase, MySQL
