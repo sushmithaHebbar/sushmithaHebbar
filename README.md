@@ -6,10 +6,10 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 
 ## 💡 What I Do
 
-- 🔹 **AI & ML Development** – Focused on deep learning, sentiment analysis, and predictive modeling.
-- 🔹 **Full-Stack Web Development** – Experienced in **MERN stack**, React.js, and RESTful APIs.
-- 🔹 **Innovation & Research** – Working on AI-powered mental health tools and tamper-proof delivery systems.
-- 🔹 **Open Source & Collaboration** – Enthusiastic about contributing to open-source projects and tech communities.
+-  **AI & ML Development** – Focused on deep learning, sentiment analysis, and predictive modeling.
+-  **Full-Stack Web Development** – Experienced in **MERN stack**, React.js, and RESTful APIs.
+-  **Innovation & Research** – Working on AI-powered mental health tools and tamper-proof delivery systems.
+-  **Open Source & Collaboration** – Enthusiastic about contributing to open-source projects and tech communities.
 
 ## 📌 Notable Projects
 
