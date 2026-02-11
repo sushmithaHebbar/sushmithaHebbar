@@ -11,18 +11,6 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 -  **Innovation & Research** – Working on AI-powered mental health tools and tamper-proof delivery systems.
 -  **Open Source & Collaboration** – Enthusiastic about contributing to open-source projects and tech communities.
 
-## 📌 Notable Projects
-
-### 🔷 **AI-Powered Mental Health Assistant**
-
-- Uses **CNN for facial emotion recognition, Naïve Bayes for sentiment analysis, and Random Forest for biometric insights**.
-- Provides real-time feedback and personalized mental health recommendations.
-
-### 🔷 **Virtual Herbal Garden**
-
-- Interactive 3D models of medicinal plants with detailed AYUSH-based information.
-- Implements **React.js, Bootstrap, and responsive UI/UX principles**.
-
 ## 🛠️ Tech Stack & Tools
 
 **Programming:**
@@ -68,11 +56,8 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30" alt="AWS" />  &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30" alt="Google Cloud" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="30" height="30" alt="Power BI" /> &nbsp;
-## 🎯 Goals & Interests
 
-- 🌱 Enhancing AI models for **mental health and healthcare applications**.
-- 🔍 Exploring **blockchain for secure data management**.
-- 🚀 Building AI-powered **smart assistants and IoT integrations**.
+
 
 ## 📬 Let's Connect!
 
