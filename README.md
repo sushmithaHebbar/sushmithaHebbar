@@ -62,7 +62,7 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 ## 📬 Let's Connect!
 
 - 💼 [Sushmitha LinkedIn](https://www.linkedin.com/in/sushmitha-61978526a)
-- 📝 [Portfolio]([https://github.com/sushmithaHebbar](https://portfolio-tawny-beta-13.vercel.app))
+- 📝 [Portfolio](https://portfolio-tawny-beta-13.vercel.app)
 - 📧 Email: [sushmitham579@gmail.com](mailto\:sushmitham579@gmail.com)
 
 🚀 *Always open to exciting collaborations and innovative projects!*
