@@ -65,20 +65,5 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 - 📝 [Portfolio](https://portfolio-tawny-beta-13.vercel.app)
 - 📧 Email: [sushmitham579@gmail.com](mailto\:sushmitham579@gmail.com)
 
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Engineer;Full+Stack+Developer;Open+Source+Enthusiast&center=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sushmithaHebbar&label=Profile%20Views)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushmithaHebbar&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sushmithaHebbar&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushmithaHebbar&layout=compact&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sushmithaHebbar&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushmithaHebbar&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 🚀 *Always open to exciting collaborations and innovative projects!*
 
